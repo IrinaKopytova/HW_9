@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\Разработчик\3. Знакомство с языками программирования\Домашние задания\HW_9\task_64\bin\Debug\net6.0\task_64.exe
+C:\Users\ASUS\Desktop\Разработчик\3. Знакомство с языками программирования\Домашние задания\HW_9\task_64\bin\Debug\net6.0\task_64.deps.json
+C:\Users\ASUS\Desktop\Разработчик\3. Знакомство с языками программирования\Домашние задания\HW_9\task_64\bin\Debug\net6.0\task_64.runtimeconfig.json
+C:\Users\ASUS\Desktop\Разработчик\3. Знакомство с языками программирования\Домашние задания\HW_9\task_64\bin\Debug\net6.0\task_64.dll
+C:\Users\ASUS\Desktop\Разработчик\3. Знакомство с языками программирования\Домашние задания\HW_9\task_64\bin\Debug\net6.0\ref\task_64.dll
+C:\Users\ASUS\Desktop\Разработчик\3. Знакомство с языками программирования\Домашние задания\HW_9\task_64\bin\Debug\net6.0\task_64.pdb
+C:\Users\ASUS\Desktop\Разработчик\3. Знакомство с языками программирования\Домашние задания\HW_9\task_64\obj\Debug\net6.0\task_64.GlobalUsings.g.cs
+C:\Users\ASUS\Desktop\Разработчик\3. Знакомство с языками программирования\Домашние задания\HW_9\task_64\obj\Debug\net6.0\task_64.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Разработчик\3. Знакомство с языками программирования\Домашние задания\HW_9\task_64\obj\Debug\net6.0\task_64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Разработчик\3. Знакомство с языками программирования\Домашние задания\HW_9\task_64\obj\Debug\net6.0\task_64.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Разработчик\3. Знакомство с языками программирования\Домашние задания\HW_9\task_64\obj\Debug\net6.0\task_64.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Разработчик\3. Знакомство с языками программирования\Домашние задания\HW_9\task_64\obj\Debug\net6.0\task_64.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Разработчик\3. Знакомство с языками программирования\Домашние задания\HW_9\task_64\obj\Debug\net6.0\task_64.dll
+C:\Users\ASUS\Desktop\Разработчик\3. Знакомство с языками программирования\Домашние задания\HW_9\task_64\obj\Debug\net6.0\ref\task_64.dll
+C:\Users\ASUS\Desktop\Разработчик\3. Знакомство с языками программирования\Домашние задания\HW_9\task_64\obj\Debug\net6.0\task_64.pdb
+C:\Users\ASUS\Desktop\Разработчик\3. Знакомство с языками программирования\Домашние задания\HW_9\task_64\obj\Debug\net6.0\task_64.genruntimeconfig.cache
